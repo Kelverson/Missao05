@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+div{
+    background-image: url('./img/harry-potter.png');
+    color: aliceblue;
+    width: 450px;   
+    height: 450px;
+    text-align: left;
+    margin: 30px auto;
+    padding: 5px 20px;
+    border-radius: 50%;
+}

@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+    background-image: url('./img/imagem-de-fundo.jpg');
+    
+}
+div{
+    width: 700px;
+    text-align: left;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 30px;
+    font-family: tahoma;
+}
